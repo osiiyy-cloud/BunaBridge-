@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "bunabridge-website",
+  "name": "bunabridge",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-09-14",
   "compatibility_flags": [
