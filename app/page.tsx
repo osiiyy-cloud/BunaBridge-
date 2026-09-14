@@ -53,11 +53,7 @@ export default function Home(){
   <div className="footer-inner">
     <div>
       <div className="brand">BunaBridge</div>
-      <h2>
-        Ethiopia's Coffee.<br />
-        The World's Next Great Sips.<br />
-        A More Connected Coffee World.
-      </h2>
+      <h2>Quality Coffee.<br />Strong Partnerships.<br />A More Connected Coffee World.</h2>
       <p>
         Let's build long-term specialty coffee relationships together.
       </p>
