@@ -49,7 +49,41 @@ export default function Home(){
 </div></div></section>
 
 <section id="contact" className="contact"><div className="container contact-grid"><div><div className="eyebrow">Get In Touch</div><h2>Quality Coffee.<br>Strong Partnerships.<br>A More Connected Coffee World.</h2><p>Let's build long-term specialty coffee relationships between Ethiopia and international markets.</p><a className="btn green" href="mailto:Yosepht@BunaBridge.store">Email BunaBridge →</a></div><div className="contact-card"><b>EMAIL</b><a href="mailto:Yosepht@BunaBridge.store">Yosepht@BunaBridge.store</a><b>PHONE / WHATSAPP</b><a href="tel:+251988525207">+251 988 525 207</a><b>FOCUS</b><div style={{fontSize:"12px"}}>Ethiopian green coffee • International buyers • Specialty coffee brokerage</div></div></div></section>
-<footer><div className="container foot"><span>© 2026 BunaBridge. All rights reserved.</span><span><a href="#home">Home</a><a href="#origins">Coffee Origins</a><a href="#services">Services</a><a href="#buyers">For Buyers</a><a href="#suppliers">For Suppliers</a><a href="#contact">Contact</a></span></div></footer>
+<footer>
+  <div className="footer-inner">
+    <div>
+      <div className="brand">BunaBridge</div>
+      <h2>
+        Ethiopia's Coffee.<br />
+        The World's Next Great Sips.<br />
+        A More Connected Coffee World.
+      </h2>
+      <p>
+        Let's build long-term specialty coffee relationships together.
+      </p>
+    </div>
 
+    <div className="footer-links">
+      <a href="#services">Services</a>
+      <a href="#buyers">For Buyers</a>
+      <a href="#suppliers">For Suppliers</a>
+      <a href="#origins">Origins</a>
+      <a href="#contact">Contact</a>
+    </div>
+
+    <div className="footer-contact">
+      <b>PHONE</b>
+      <a href="tel:+251988525207">+251 988 525 207</a>
+
+      <b>EMAIL</b>
+      <a href="mailto:Yosepht@BunaBridge.store">
+        Yosepht@BunaBridge.store
+      </a>
+
+      <b>LOCATION</b>
+      <span>Addis Ababa, Ethiopia</span>
+    </div>
+  </div>
+</footer>
 </>);
 }
